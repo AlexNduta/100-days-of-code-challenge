@@ -5,4 +5,5 @@
 - My goal is to also solidify my golang skills  
 # Day 0
 - setup a google sheet template to track my progress. https://docs.google.com/spreadsheets/d/1O_hZUvZLTzXkwlTSzxbqnwLgtd_je8HJEWjG28wC7tM/edit?usp=sharing
+
 -The main point is to have an accountability system to keep me going
